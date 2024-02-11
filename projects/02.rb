@@ -1,5 +1,5 @@
 loop do
-  print " [1] Addition \n [2] Subtraction \n [3] Multiplication \n [4] Division \n [0] Exit"
+  print " [1] Addition \n [2] Subtraction \n [3] Multiplication \n [4] Division \n [0] Exit \n"
   option = gets.to_i
   case option
   when 1 
